@@ -49,7 +49,7 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "Possess extensive and rich knowledge of all software such as Website, Blockchain and more for over 8 years.<br/>Specializing in front end development.<br/>Experienced with all stages of the evelopment cycle for dynamic web projects.<br/>Well-versed in numerous programming languages including HTML5, JavaScript, CSS, React, Vue, MySQL, NOSQL.<br/>Strong background in project management and customer relations.<br/>Strong experience in a plenty of languages, such as Node(Express), PHP(Laravel, CI) and Python(Django, Flask).<br/>Agile Methodologies such as Scrum Have remote work experiences and team work experiences.<br/>Devops engineering using Docker, AWS AppSync, AWS EC2, AWS Lambda, AWS S3, AWS RDS, etc. <br/>Work with the Agile methodology and have experience with the following tools JIRA, Trello and GitHub."
+            "Possess extensive and rich knowledge of all software such as Website, Blockchain and more for over 8 years.<br/>Specializing in front end development.<br/>Experienced with all stages of the evelopment cycle for dynamic web projects.<br/>Well-versed in numerous programming languages including HTML5, JavaScript, CSS, React, Vue, MySQL, NOSQL.<br/>Strong background in project management and customer relations.<br/>Strong experience in a plenty of languages, such as Node(Express) and Python(Django, Flask).<br/>Agile Methodologies such as Scrum Have remote work experiences and team work experiences.<br/>Devops engineering using Docker, AWS AppSync, AWS EC2, AWS Lambda, AWS S3, AWS RDS, etc. <br/>Work with the Agile methodology and have experience with the following tools JIRA, Trello and GitHub."
         }
       ]
     };
@@ -113,13 +113,13 @@ class About extends React.Component {
                   </div>
                   <div className="tech_desc">
                     {/* eslint-disable-next-line jsx-a11y/accessible-emoji */}
+                    <p>⚡ Building RESTful APIs in Node&Express, Django & Django REST Framework and Golang.</p>
                     <p>⚡ Building responsive Single-Page-Apps (SPA) & PWA in React(Redux, Hook, Context, Flux, Next).</p>
                     {/* eslint-disable-next-line jsx-a11y/accessible-emoji */}
                     <p>⚡ Building responsive Single-Page-Apps (SPA) & PWA in Vue(Vuex, Vuetify, Nuxt, Quasar).</p>
                     {/* eslint-disable-next-line jsx-a11y/accessible-emoji */}
                     <p>⚡ Building server side rendering website in Next and Nuxt.</p>
                     {/* eslint-disable-next-line jsx-a11y/accessible-emoji */}
-                    <p>⚡ Building RESTful APIs in PHP Frameworks, Node&Express, Django & Django REST Framework and Golang.</p>
                   </div>
                 </Fade>
                </div>
