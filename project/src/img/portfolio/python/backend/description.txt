@@ -1,0 +1,27 @@
+Back-End Development Deliverables
+Database DesignRESTful APIWeb ServiceAPI
+
+Back-End Development Skills
+DockerRESTful ArchitectureDjango
+
+Back-End Programming Languages
+Python
+
+Business Size
+Business with 10-99 Employees
+
+Databases
+PostgreSQL
+
+Web Servers
+NGINX
+
+Project description
+I worked on this project for six months as a backend developer.
+I developed the backend using Django and Django REST framework
+I used Django ORM for database models.
+The backend is fully compatible with React.
+JWT authentication system is implemented using Simple JWT and Djoser.
+
+more
+https://alpha.genelpiyasa.com

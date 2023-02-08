@@ -1,0 +1,12 @@
+Project description
+My Client wants to develop the platform for resolving communication barrier between Patients and Healthcare professionals.
+
+I have designed and developed the web app which connects Patient to nurses in an efficient and responsive way so that t can be beneficial for both.
+
+It's a complete HIPAA compliant web application and eCommerce system which sells lab tests and automates laboratory testing & reporting using QuestDiagnostic 360 API and HL7.
+
+
+This web app helps the client to achieve his goal to reduce the communication gap and get real answers in real-time.
+
+less
+https://hospitalintegration.com/

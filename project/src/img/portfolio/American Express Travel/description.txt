@@ -1,0 +1,17 @@
+Project description
+Ruby on Rails travel site, featuring searching and booking of hotels, flights and cars.
+
+Role: Frontend developer
+
+Technologies used: jQuery(Javascript), jQuery UI, Ruby on Rails, HAML(html), SASS(css), git, Linux
+
+Work done:
+- General behaviour of the UI with jQuery and jQuery UI
+- Custom jQuery plugin authoring
+- Custom jQuery UI Widget authoring including an infinite scroll that consumed a REST API
+- Layouting from PSDs using HAML and SASS
+- Some backend bugfixes and endpoint modifications
+- Made contributions to jQuery UI as a result of dealing with bugs (https://github.com/jquery/jquery-ui/pull/820)
+
+less
+https://travel.americanexpress.com/home

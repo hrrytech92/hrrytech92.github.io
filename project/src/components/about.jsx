@@ -176,13 +176,13 @@ class About extends React.Component {
                   </div>
                   <div className="tech_desc">
                     {/* eslint-disable-next-line jsx-a11y/accessible-emoji */}
-                    <p>⚡ Experience of working on AWS(AWS AppSync, AWS Amplify, AWS Lambda, AWS EC2, AWS S3, AWS RDS, etc).</p>
+                    <p>⚡ Experience of working on AWS Services(AppSync, Amplify, Lambda, API Gateway, Cognito, EC2, S3, RDS, SNS, SQS etc).</p>
                     {/* eslint-disable-next-line jsx-a11y/accessible-emoji */}
-                    <p>⚡ Experience of working on multiple cloud platforms</p>
+                    <p>⚡ Experience of working on multiple cloud platforms - GCP, Teraform, Kubernetes, Azure</p>
                     {/* eslint-disable-next-line jsx-a11y/accessible-emoji */}
                     <p>⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases</p>
                     {/* eslint-disable-next-line jsx-a11y/accessible-emoji */}
-                    <p>⚡ Building CI/CD pipelines for automated testing & deployment using Github Actions</p>
+                    <p>⚡ Building CI/CD pipelines for automated testing & deployment using Docker and Github Actions</p>
                   </div>
                 </Fade>
                </div>

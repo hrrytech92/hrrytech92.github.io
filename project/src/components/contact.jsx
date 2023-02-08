@@ -8,7 +8,6 @@ class Contact extends React.Component {
         className="paralax-mf footer-paralax bg-image route"
         style={{ backgroundImage: "url(" + imageOverlay + ")" }}
       >
-        <div className="overlay-mf"></div>
         <div className="container">
           <div className="row">
             <div className="col-sm-12">
